@@ -23,7 +23,7 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# Coursera <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Coursera_logo_blue.svg" width="90"/>
+# Coursera
 
 ### **AWS**
 - **AWS Certified Solutions Architect – Associate** — [Verify](#)
