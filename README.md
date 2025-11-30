@@ -13,20 +13,17 @@ This page consolidates all of my certifications so they can be easily browsed an
 ---
 
 # Table of Contents
-1. [Cloud Certifications](#cloud-certifications)  
-2. [Cybersecurity Certifications](#cybersecurity-certifications)  
-3. [Data & AI Certifications](#data--ai-certifications)  
-4. [Software Development Certifications](#software-development-certifications)  
-5. [DevOps & Automation](#devops--automation)  
-6. [Project Management & Leadership](#project-management--leadership)  
-7. [Other Technical Certifications](#other-technical-certifications)  
-8. [Soft Skills & Business](#soft-skills--business)  
-9. [Archived / Deprecated](#archived--deprecated)  
-10. [Verification Notes](#verification-notes)
+1. [Coursera](#coursera)  
+2. [DataCamp](#datacamp)  
+3. [HP LIFE](#hp-life)  
+4. [LinkedIn Learning](#linkedin-learning)  
+5. [MaharaTech – ITI MoocA](#maharatech--iti-mooca) 
+6. [SAP](#sap)  
+7. [Udemy](#udemy)  
 
 ---
 
-# Cloud Certifications
+# Coursera
 
 ### **AWS**
 - **AWS Certified Solutions Architect – Associate** — [Verify](#)
@@ -41,21 +38,21 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# Cybersecurity Certifications
+# DataCamp
 - **CompTIA Security+** — [Verify](#)
 - **Cybrary: SOC Analyst Level 1** — [Verify](#)
 - **IBM Cybersecurity Analyst** — [Verify](#)
 
 ---
 
-# Data & AI Certifications
+# HP LIFE
 - **Google Data Analytics Professional Certificate** — [Verify](#)
 - **Microsoft AI Fundamentals (AI-900)** — [Verify](#)
 - **Machine Learning — Andrew Ng (Coursera)** — [Verify](#)
 
 ---
 
-# Software Development Certifications
+# LinkedIn Learning
 
 ### **Programming Languages**
 - **Python for Everybody Specialization** — [Verify](#)
@@ -67,35 +64,22 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# DevOps & Automation
+# MaharaTech – ITI MoocA
 - **Docker Essentials** — [Verify](#)
 - **Kubernetes Fundamentals** — [Verify](#)
 - **CI/CD with Jenkins** — [Verify](#)
 
 ---
 
-# Project Management & Leadership
+# SAP
 - **Google Project Management Certificate** — [Verify](#)
 - **Scrum Master Certification** — [Verify](#)
 
 ---
 
-# Other Technical Certifications
+# Udemy
 - **Linux Administration** — [Verify](#)
 - **Networking Fundamentals** — [Verify](#)
-
----
-
-# Soft Skills & Business
-- **Effective Communication** — [Verify](#)
-- **Business Strategy Foundations** — [Verify](#)
-
----
-
-# Archived / Deprecated
-*(Older, expired, or legacy certificates kept for completeness.)*
-
-- Certification Name — [Verify](#)
 
 ---
 
@@ -105,5 +89,5 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# 💼 LinkedIn Shortcut
+# LinkedIn Shortcut
 This README is linked directly from my **Licenses & Certifications** section on LinkedIn for simple navigation.
