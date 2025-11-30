@@ -5,14 +5,14 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-## 🔎 How to Use This Page
+## How to Use This Page
 - Browse by **category** using the table of contents below  
 - Click any certificate name to open its verification link  
 - Sections are grouped to keep navigation simple and fast
 
 ---
 
-# 📚 Table of Contents
+# Table of Contents
 1. [Cloud Certifications](#cloud-certifications)  
 2. [Cybersecurity Certifications](#cybersecurity-certifications)  
 3. [Data & AI Certifications](#data--ai-certifications)  
