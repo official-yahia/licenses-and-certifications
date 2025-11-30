@@ -1,4 +1,4 @@
-# 📜 Licenses & Certifications Directory
+# Licenses & Certifications 
 
 Welcome to my complete, organized directory of professional certificates.  
 This page consolidates all of my certifications so they can be easily browsed and verified in one place.
