@@ -1,6 +1,6 @@
 # Licenses & Certifications 
 
-Welcome to my complete, organized directory of professional certificates.  
+Welcome to my directory of licenses and certifications.  
 This page consolidates all of my certifications so they can be easily browsed and verified in one place.
 
 ---
@@ -26,7 +26,7 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# ☁️ Cloud Certifications
+# Cloud Certifications
 
 ### **AWS**
 - **AWS Certified Solutions Architect – Associate** — [Verify](#)
@@ -41,21 +41,21 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# 🔐 Cybersecurity Certifications
+# Cybersecurity Certifications
 - **CompTIA Security+** — [Verify](#)
 - **Cybrary: SOC Analyst Level 1** — [Verify](#)
 - **IBM Cybersecurity Analyst** — [Verify](#)
 
 ---
 
-# 🤖 Data & AI Certifications
+# Data & AI Certifications
 - **Google Data Analytics Professional Certificate** — [Verify](#)
 - **Microsoft AI Fundamentals (AI-900)** — [Verify](#)
 - **Machine Learning — Andrew Ng (Coursera)** — [Verify](#)
 
 ---
 
-# 💻 Software Development Certifications
+# Software Development Certifications
 
 ### **Programming Languages**
 - **Python for Everybody Specialization** — [Verify](#)
@@ -67,39 +67,39 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 ---
 
-# ⚙️ DevOps & Automation
+# DevOps & Automation
 - **Docker Essentials** — [Verify](#)
 - **Kubernetes Fundamentals** — [Verify](#)
 - **CI/CD with Jenkins** — [Verify](#)
 
 ---
 
-# 📈 Project Management & Leadership
+# Project Management & Leadership
 - **Google Project Management Certificate** — [Verify](#)
 - **Scrum Master Certification** — [Verify](#)
 
 ---
 
-# 🧩 Other Technical Certifications
+# Other Technical Certifications
 - **Linux Administration** — [Verify](#)
 - **Networking Fundamentals** — [Verify](#)
 
 ---
 
-# 🗃️ Soft Skills & Business
+# Soft Skills & Business
 - **Effective Communication** — [Verify](#)
 - **Business Strategy Foundations** — [Verify](#)
 
 ---
 
-# 🕮 Archived / Deprecated
+# Archived / Deprecated
 *(Older, expired, or legacy certificates kept for completeness.)*
 
 - Certification Name — [Verify](#)
 
 ---
 
-# ✔️ Verification Notes
+# Verification Notes
 - All certificates link to official verification pages or trusted third-party verification sources.  
 - Some certificates may require login to view.
 
