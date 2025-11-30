@@ -25,16 +25,10 @@ This page consolidates all of my certifications so they can be easily browsed an
 
 # Coursera
 
-### **AWS**
-- **AWS Certified Solutions Architect – Associate** — [Verify](#)
-- **AWS Cloud Practitioner** — [Verify](#)
-
-### **Azure**
-- **Microsoft Azure Fundamentals (AZ-900)** — [Verify](#)
-- **Azure Administrator (AZ-104)** — [Verify](#)
-
-### **Google Cloud**
-- **Google Cloud Digital Leader** — [Verify](#)
+- **Business Analysis & Process Management** — [Verify](https://www.coursera.org/account/accomplishments/verify/C5A1KNXBQUC1)
+- **Getting Started with Microsoft Excel** — [Verify](https://www.coursera.org/account/accomplishments/verify/1ACLQEH8F8XA)
+- **Introduction to Business Analysis Using Spreadsheets: Basics** — [Verify](https://www.coursera.org/account/accomplishments/verify/E6Q1IS2EE9K6)
+- **Using Basic Formulas and Functions in Microsoft Excel** — [Verify](https://www.coursera.org/account/accomplishments/verify/IFY32JQ51AKZ)
 
 ---
 
